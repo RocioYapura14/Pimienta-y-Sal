@@ -1170,9 +1170,7 @@ a {
 .ps-hover-text-black:hover {
   color: #000 !important;
 }
-.ps-text-grey{
-  font-size: 30px;
-}
+
 .ps-text-grey,
 .ps-hover-text-grey:hover,
 .ps-text-gray,
